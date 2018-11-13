@@ -1,3 +1,6 @@
+# There's now an official guide for Chat integration. Check it out here: https://developers.google.com/hangouts/chat/how-tos/integrate-hubot
+---
+
 # hubot-hangoutschat
 The Hangouts Chat provider for Github's Hubot
 
